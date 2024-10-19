@@ -1,0 +1,2 @@
+Hello from a new change
+this is after staging file3
